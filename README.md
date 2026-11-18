@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yahia Saleh 👋
 
-<!--
-**yahiasaleh933-creator/yahiasaleh933-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer based in Amman, Jordan. Computer Science graduate from German Jordanian University (2026).
 
-Here are some ideas to get you started:
+- 📱 I build cross-platform apps with **Flutter & Dart** (mobile, web and desktop)
+- 🚀 I have published apps on the **App Store** and **Google Play**
+- 💼 Currently building an Engineering Document Management System (EDMS) at Levant Team
+- 🐍 Backend: **Python, Django, REST APIs, SQL**
+- 🤖 I use AI coding tools (Claude, Copilot) daily to ship faster
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+Flutter · Dart · Python · Django · REST APIs · SQL · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/yahia-essa-937a2a237)
